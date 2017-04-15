@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "96288344350",
+    "firebase_url": "https://cuponeracba.firebaseio.com",
+    "project_id": "cuponeracba",
+    "storage_bucket": "cuponeracba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96288344350:android:5778f05d6ae2de5a",
+        "android_client_info": {
+          "package_name": "teampromociones.cuponeracba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96288344350-prphr1mmadl57lnpr0u6ikh5fki1ua64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teampromociones.cuponeracba",
+            "certificate_hash": "279722f936f7a6058f91d0a4ba99443e3ada30a1"
+          }
+        },
+        {
+          "client_id": "96288344350-j5aivuv3ilsuhqrstbhk8t7m0150pipv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teampromociones.cuponeracba",
+            "certificate_hash": "ebac95f5588d586d348de867c089640a31d4121e"
+          }
+        },
+        {
+          "client_id": "96288344350-50cv3bvc9ngumpn2iv11be4jockuig95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9TY4qsFNOKE9OvnJzVNLTYObdiflH91g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96288344350-50cv3bvc9ngumpn2iv11be4jockuig95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

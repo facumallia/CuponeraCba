@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gastronomia"
+            android:icon="@drawable/gastronomia"
+            android:title="Gastronomía" />
+        <item
+            android:id="@+id/nav_indumentaria"
+            android:icon="@drawable/indumentaria"
+            android:title="Indumentaria" />
+        <item
+            android:id="@+id/nav_productos"
+            android:icon="@drawable/productos"
+            android:title="Productos" />
+        <item
+            android:id="@+id/nav_servicios"
+            android:icon="@drawable/servicios"
+            android:title="Servicios" />
+    </group>
+
+    <item android:title="Opciones">
+        <menu>
+            <item
+                android:id="@+id/nav_contactenos"
+                android:icon="@drawable/contactenos"
+                android:title="Contáctenos" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/logout"
+                android:title="Cerrar Sesión" />
+        </menu>
+    </item>
+
+</menu>
